@@ -1,5 +1,5 @@
 # 2o2s-client
-An open source hack client that is basically Wurst (a fabric mod), but all in one!
+An open source hack client that is basically Wurst (a Fabric mod/hack), but all in one! (as a client with it and some other useful mods)
 # Wait, what is Wurst?
 go chek it out at https://github.com/Wurst-Imperium/Wurst7 or https://www.wurstclient.net/
 # How do i install?
